@@ -639,6 +639,12 @@ a.dotted-link:hover {
   color: #fb866a;
 }
 
+aside.education.aside.section  .grad-cap-icon {
+  height: 20px;
+  float: left;
+  margin-right: 5px;
+}
+
 @media (max-width: 767.98px) {
   .header {
     text-align: center;

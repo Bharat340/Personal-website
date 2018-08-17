@@ -1,0 +1,28 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "Personal website for Bharat P",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --files \"index.html\" --port 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bharat340/Personal-website.git"
+  },
+  "keywords": [
+    "static",
+    "website",
+    "resume"
+  ],
+  "author": "Bharat P",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Bharat340/Personal-website/issues"
+  },
+  "homepage": "https://github.com/Bharat340/Personal-website#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.6"
+  }
+}
