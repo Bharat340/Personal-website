@@ -639,10 +639,14 @@ a.dotted-link:hover {
   color: #fb866a;
 }
 
-aside.education.aside.section  .grad-cap-icon {
+aside.education.aside.section  .grad-cap-icon, aside.list.conferences .calendar-icon  {
   height: 20px;
   float: left;
   margin-right: 5px;
+}
+
+aside.list.conferences .calendar-icon {
+  height: 25px;
 }
 
 @media (max-width: 767.98px) {
